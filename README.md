@@ -1,6 +1,8 @@
 LV-FP-PrtSc
 ======
 
+[中文介紹](https://show6114.com/2018/11/28/labview-front-panel-print-screen/)
+
 Print screen the Front Panel of a target VI into PNG image.
 
 Features:
